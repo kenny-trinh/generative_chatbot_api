@@ -45,3 +45,7 @@ conda install -c conda-forge flasgger
 ## Testing the prototype
 Unfortunately the link between the chatbot_controller and api_controller did not work out. Therefore, both of these components can only be tested separately.
 Running the app.py shows the Swagger UI document and by running the chatbot_py, the chatbot can be tested with input from the user.
+
+![2022-05-31_03-55-44 (1)](https://user-images.githubusercontent.com/78908824/171053881-cbf956dc-0c1e-478e-88fe-36adf4d625aa.gif)
+
+
