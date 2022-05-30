@@ -2,7 +2,6 @@ openapi: 3.0.0
 tags:
   - name: Generative Chatbot API
 get:
-
   description: None
 responses:
   '200':
